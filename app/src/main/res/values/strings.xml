@@ -1,0 +1,216 @@
+<resources>
+    <string name="app_name">Bohol\'s_best_recipe</string>
+
+    <string-array name="recipes">
+
+        <item>Balbacua </item>
+        <item>Broa</item>
+        <item>Calamay</item>
+        <item>Chorizo</item>
+        <item>Crayfish</item>
+        <item>Halang-Halang</item>
+        <item>Humba</item>
+        <item>Peanut Kisses</item>
+        <item>Tableya</item>
+        <item>Torta</item>
+        <item>Ube</item>
+
+    </string-array>
+
+
+    <string-array name="ingredients">
+
+        <item>"Balbacua","•\t1 kilograM Ox Tail\n"
+                "•\t½ kilogram Ox Skin\n"
+                "•\t1 large can Pork And Beans\n"
+                "•\t3 tablespoons Unsalted Peanut Butter\n"
+                "•\t2 tablespoons Tomato Paste\n"
+                "•\t2 small cans Black Beans\n"
+                "•\t3 cups Beef Stock\n"
+                "•\t3 cups Water\n"
+                "•\t2 stalks Baby Leeks\n"
+                "•\t2 pcs Onion (sliced)\n"
+                "•\t6 cloves Garlic (minced)\n"
+                "•\tadd  Fish Sauce (patis)\n"
+                "•\tadd  Black Pepper (freshly ground)\n","Method","1.\tHeat lard in cast iron skillet.\n"
+                "        2.\tSear oxtails and feet.\n"
+                "        3.\tAdd all ingredients to slow cooker set to low.\n"
+                "        4.\tPour in enough water to cover.\n"
+                "        5.\tCook for 4hrs or until bones can be removed easily.\n"
+                "        6.\tLet cool.\n"
+                "        7.\tRemove bones, bay leaves and star anise.\n"
+                "        8.\tCut skin, tendons and beef into bite size pieces.\n"
+                "        9.\tReturn to heat.\n"
+                "        10.\tAdd remaining ingredients, simmer till the desired thickness is reached.\n"
+                "        11.\tTaste for salt and pepper.\n"
+                "        12.\tI simmer longer to reduce by at least a ⅓, prefer it more like a stew rather than a soup. Also threw in a sliced up pig ear that lonely in the fridge.\n"
+                "        13.\tServe over cauli-rice, bok choy or your favorite veggie\n"
+                "        14.\n"
+                "        Liver spread\n"
+                "        15.\tPulse liver in food processor until chopped into a fine paste, stopping to scrape down sides of bowl as necessary.\n"
+                "        16.\tHeat lard in cast iron skillet.\n"
+                "        17.\tAdd in onion and cook until softened, about 5 minutes.\n"
+                "        18.\tAdd in garlic and cook until fragrant, about 30 seconds.\n"
+                "        19.\tAdd in liver paste and stir to combine, cook 5min.\n"
+                "        20.\tAdd in vinegar, reduce heat to a simmer.\n"
+                "        21.\tCook until thickened, about 5-15 minutes.\n"
+                "        22.\tSeason with salt and pepper to taste.\n"
+                "        23.\tLet cool and serve or store in an airtight container in the refrigerator for up to a week."
+        </item>
+
+        <item>Broa "Broa (Lady Finger","1 1/2 cups white sugar\n"
+                "1 cup cornmeal\n"
+                "1 cup all-purpose flour\n"
+                "1/2 teaspoon salt\n"
+                "2 eggs\n"
+                "1 cup milk, at room temperature\n"
+                "1/4 cup melted butter\n"
+                "\n","Method","Mix sugar, cornmeal, flour, and salt together in bowl until combined; add eggs.\n"
+                "Stir milk and melted butter in a bowl until smooth; stir into the cornmeal mixture until smooth, about 5 minutes.\n"
+                "Grease a griddle; place over high heat. Drop tablespoonfuls of the cornmeal mixture into the skillet; cook until golden brown, about 5 minutes each side.\n"
+        </item>
+
+        <item>"Calamay","•\t10 liters water\n"
+                "•\t10 kilos white sugar\n"
+                "•\t2 gantas malagkit\n"
+                "•\t20 pieces coconut\n","Method","1.\tSoak the malagkit overnight.\n"
+                "2.\tGrate the coconuts.\n"
+                "3.\tExtract the milk from the grated coconut two times: first, with 5 liters of water, then with 3 liters of water.\n"
+                "4.\tPour the malagkit into the first coconut milk extract, and grind the mixture.\n"
+                "5.\tMix sugar with the second coconut milk extract, and boil to make latik.\n"
+                "6.\tPour the ground malagkit into the boiling latik, and stir for 4 hours or until the mixture becomes very sticky.\n"
+                "7.\tPut the mixture into half of a coconut shell. Cool for 3 hours. Then cover with the other half of the shell.\n"
+        </item>
+
+        <item>"Chorizo de Bohol","•\t2 pounds (0.91 kg) of chorizo sausage\n"
+                        "•\t1 large onion\n"
+                        "•\t4 whole cloves of garlic\n"
+                        "•\t2 sprigs of fresh rosemary\n"
+                        "•\t2 sprigs of fresh oregano\n"
+                        "•\t1 tablespoon (15 ml) of vegetable oil\n","Method","Heat a pan. Place a pan over medium heat. Cooking chorizo slowly over low heat will allow its flavors to fully develop, but medium heat works almost as well if you’re in a time crunch.\n"
+                "Cover and cook. Put a lid over the pan and allow the chorizo links to cook for about 10 – 12 minutes, turning them frequently.\n"
+                "Remove cover and keep cooking. Take off the lid and continue cooking the chorizo for an additional 5 – 7 minutes or until golden brown."
+        </item>
+
+        <item>"Takla in Gata","4 medium crayfish\n"
+                "3 limes, juice only\n"
+                "2 tbsp olive oil\n"
+                "4 shallots, minced\n"
+                "2 cloves garlic, crushed\n"
+                "2 stalks lemongrass, sliced thinly\n"
+                "2 tbsp tomato paste\n"
+                "10g palm sugar\n"
+                "2 red chillies, sliced finely, plus extra\n"
+                "400ml coconut milk\n"
+                "4 pak choi, cut in half\n"
+                "washed chargrilled chillies, lime wedges and fresh coriander, to serve\n","Method","Prepare crayfish by removing tails from the body.\n"
+                "Cut through the centre of each tail and remove the excretion cord down the centre. Leave flesh in the shells if preferred, or remove.\n"
+                "Squeeze lime juice over crayfish tails. In a large heavy-based flameproof roasting pan, heat olive oil. \n"
+                "Add shallot, garlic and lemongrass. Sauté for 5 minutes until tender.\n"
+                " Add tomato paste, sugar and chilli. \n"
+                "Add crayfish tails and cook for 8 minutes. \n"
+                "Lower the heat; add coconut milk.\n" +
+                "Season to taste with salt and freshly ground black pepper, and extra chilli to taste. \n"
+                "Add pak choi halves; cook for a further 5 minutes, until greens have just wilted.\n"
+        </item>
+
+        <item>"Chiken Halang-halang","•\t1 tablespoon canola oil \n"
+                "•\t1 onion, peeled and chopped\n"
+                "•\t4 cloves garlic, peeled and minced\n"
+                "•\t2 thumb-sized ginger, peeled and minced\n"
+                "•\t1 (about 3 to 4 pounds) whole chicken, cut into serving parts\n"
+                "•\t1 tablespoon fish sauce\n"
+                "•\t1 can (14 ounces) coconut milk\n"
+                "•\t5 pieces Thai chili peppers, minced\n"
+                "•\t1 small green papaya, peeled, seeded and cut into chunks\n"
+                "•\tsalt to taste\n"
+                "•\t1 bunch fresh spinach, stems trimmed\n","Method","1.\tAdd chicken and cook, stirring occasionally, until lightly browned.\n"
+                "2.\tAdd fish sauce and continue to cook for 1 to 2 minutes.\n"
+                "3.\tAdd coconut milk, chili peppers, and lemongrass. Bring to a simmer.\n"
+                "4.\tCover and cook for about 20 to 25 minutes or until chicken is cooked through.\n"
+                "5.\tAdd papaya and cook for about 4 to 5 minutes or until papaya is tender and sauce is thickened.\n"
+                "6.\tRemove lemongrass and discard. Season with salt to taste.\n"
+                "7.\tAdd spinach and cook until just wilted. Serve hot.\n"
+        </item>
+
+        <item>"Humba","•\t1 kilo pork belly (cut into serving pieces)\n"
+                "•\t¼ cup soy sauce\n"
+                "•\t¼ cup vinegar\n"
+                "•\t1 medium-sized onion, minced\n"
+                "•\t5 cloves garlic, minced\n"
+                "•\t1 cup lemon soda\n"
+                "•\t1 teaspoon whole peppercorns\n"
+                "•\t¼ cup banana blossoms\n"
+                "•\t¼ cup salted black beans, drained\n"
+                "•\t3 to 5 pieces bay leaves\n"
+                "•\t2 pieces star anise (optional)\n"
+                "•\twater (as needed)\n","Method","•\tPlace the pork belly cuts into a pan. Sauté for a few minutes to render the oil from the pork fat.\n"
+                        "•\tAfter some oil has been rendered, cover the pan to cook the pork belly cuts. Continue sautéing once in a while.\n"
+                        "•\tSeparate the cooked pork from the oil and transfer to a container.\n"
+                        "•\tReduce the oil from the pan and leave only a tablespoon.\n"
+                        "•\tSauté the onion and garlic until light brown. Add the cooked pork belly cuts back to the pan. Sauté with the aromatics for a few minutes.\n"
+                        "•\tAdd the salted black beans, soy sauce and vinegar.\n"
+                        "•\tSimmer for 3 minutes under medium heat. Add the peppercorns and then toss the ingredients gently.\n"
+                        "•\tAdd the bay leaves, star anise, lemon soda and some water. Stir gently.\n"
+                        "•\tSimmer for 20 to 25 minutes under low heat or until pork is tender.\n"
+                        "•\tAdd the banana blossoms and mix gently. Simmer for another 5 minutes or until the sauce is reduced.\n"
+                        "•\tTransfer in a serving plate. Serve with steaming hot rice and enjoy!\n"
+        </item>
+        <item>"Peanut Kisses","Sugar\n"
+                "Peanut butter\n"
+                "Egg\n"
+                "Peanut\n","Method","\n"
+                "1.\tStir the sugar, peanut butter, and egg together to make the cookie dough.\n"
+                "2. Roll the dough into 1-inch balls.\n"
+                "3. Bake in the preheated oven until the edges are set.\n"
+                "4. Press a Hershey's Kiss into each warm cookie, then let cool on a wire rack.\n"
+        </item>
+
+        <item>"Sikwate (Tableya)","For One Serving\n"
+                "•\t20g (about four snaps Oodaalolly tablea)\n"
+                "•\t1 cup of water \n"
+                "•\tSugar to taste - start with ¼ to ½ teaspoon (we prefer Philippine muscovado or coconut sugar)\n","Method","•\tFor a traditional preparation, bring water to a boil. For a non-traditional preparation, bring milk to a boil. \n"
+                "•\tDrop in the tablea, and after it softens, break it up with your spoon or mixing device. The real mixing begins after this initial mixing. \n"
+                "•\tUsing your batirol, whisk, or milk frother (rotate the opposite direction of the spin or the cup will overflow), mix the chocolate evenly throughout.\n"
+        </item>
+
+        <item>"Torta","•\t10 egg yolks\n"
+                "•\t1 cup coconut juice\n"
+                "•\t1 cup sugar\n"
+                "•\t1 star anise\n"
+                "•\t2½ cups all-purpose flour\n"
+                "•\t1 tbsp. baking powder\n"
+                "•\t¼ tsp. salt\n"
+                "•\t½ cup or 1 stick of butter at room temperature\n"
+                "•\t¼ cup canola oil\n"
+                "•\t1/8 cup fresh milk\n"
+                "•\t1 small can (168ml) sweetened condensed milk\n","Method","1.\tLine molds with paper liners, but if you don’t have you, you can use wax paper and grease it lightly and set aside. Separate eggs and whisk egg yolks until smooth and set aside the egg whites for another recipe, such as Angel food cake, Meringue, Lengua de Gato, Sylvanas, and others.\n"
+                "2.\tPreheat your oven at 350F.\n"
+                "3.\tBoil the coconut juice and sugar over low heat for 5 minutes and add in the star anise to infuse in the syrup at the last minute, set aside to cool.\n"
+                "4.\tIn a bowl, sift over the flour, baking powder, and salt together until well mixed and set aside.\n"
+                "5.\tIn a mixing bowl, cream the butter until smooth and pale and add in the egg yolks and mix for a minute.\n"
+                "6.\tAdd the oil, coconut syrup, and condensed milk while continuously mixing.\n"
+                "7.\tI don’t want to waste the condensed milk left in the can, so I pour the fresh milk into the can and scrape all sides and stir, then add into the mixing bowl.\n"
+                "8.\tLastly, add the flour mixture and whisk until incorporated, but don’t overbeat the batter.\n"
+                "9.\tPour the batter into the prepared molds, or divide the batter using an ice cream scoop to yield a dozen of Cebu Torta Mamon.\n"
+                "10.\tBake in a preheated oven at 350F for about 18-25 minutes or until a toothpick inserted comes out clean.\n"
+                "11.\tLet it cool just enough you can handle it, then brush with margarine or butter lightly on top and sprinkle with caster or refined sugar on top and let it cool  on a wire rack.\n"
+        </item>
+
+        <item>Ube"Ube Kinampay Polvoron","•\t1 cup ube powder\n"
+                "•\t1 cup all-purpose flour\n"
+                "•\t1/2 cup butter, melted\n"
+                "•\t1/2 cup sugar\n"
+                "•\t1 teaspoon baking powder\n","Method","1.\tIn a bowl, mix together ube powder, flour, sugar, and baking powder.\n"
+                "2.\tAdd melted butter and mix until well combined.\n"
+                "3.\tScoop out the dough using a spoon or your hands and shape into small balls.\n"
+                "4.\tPlace the balls on a baking sheet lined with parchment paper and press down slightly to flatten them out.\n"
+                "5.\tBake in a preheated oven at 350 degrees Fahrenheit for 10 minutes.\n"
+                "6.\tRemove from the oven and let cool before serving. \n"
+                "\n"
+        </item>
+
+    </string-array>
+
+    <string name="Luton_Bol_anon">Lutong Bol-anon</string>
+</resources>
